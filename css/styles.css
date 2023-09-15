@@ -42,3 +42,9 @@ section>div{
 .btn:hover{
   background-color: #fdd835;
 }
+
+@media (max-width: 480px) {
+  section{
+    margin: .5rem;
+  }
+}
